@@ -3,7 +3,7 @@
 <Document>
   <Style id="binhduongPolyStyle">
       <PolyStyle>
-        <color>ff0000cc</color>
+        <color>33ff00cc</color>
         <colorMode>random</colorMode>
       </PolyStyle>
     </Style>
