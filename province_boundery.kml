@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+       <name>Boundery of many provinces</name>
+       
        <Style id="binhduongPolyStyle">
               <PolyStyle>
                      <color>4Dff00cc</color> <!--First 02 digits are opacity level, 4D is 30% -->
                      <colorMode>random</colorMode>
               </PolyStyle>
        </Style>
+
        <Style id="dongnaiPolyStyle">
               <PolyStyle>
                      <color>4D0000cc</color> <!--First 02 digits are opacity level, 4D is 30% -->
                      <colorMode>random</colorMode>
               </PolyStyle>
        </Style>
+
        <Placemark>
               <name>Binh Duong Boundery</name>
               <styleUrl>#binhduongPolyStyle</styleUrl>
@@ -4852,11 +4856,12 @@
               106.35403, 11.2479363, 0
               106.3547186, 11.2474349, 0
               106.3552115, 11.2470054, 0
-          </coordinates>
-                            </LinearRing>
-                     </outerBoundaryIs>
-              </Polygon>
+                      </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
        </Placemark>
+       <!--
        <Placemark>
               <name>Dong Nai Boundery</name>
               <styleUrl>#dongnaiPolyStyle</styleUrl>
@@ -13087,5 +13092,6 @@
                      </outerBoundaryIs>
               </Polygon>
        </Placemark>
+     -->
 </Document>
 </kml>
