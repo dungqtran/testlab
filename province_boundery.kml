@@ -16,7 +16,7 @@
                      <colorMode>random</colorMode>
               </PolyStyle>
        </Style>
-
+<!--
        <Placemark>
               <name>Binh Duong Boundery</name>
               <styleUrl>#binhduongPolyStyle</styleUrl>
@@ -4861,7 +4861,7 @@
                 </outerBoundaryIs>
             </Polygon>
        </Placemark>
-       <!--
+     -->
        <Placemark>
               <name>Dong Nai Boundery</name>
               <styleUrl>#dongnaiPolyStyle</styleUrl>
@@ -13092,6 +13092,5 @@
                      </outerBoundaryIs>
               </Polygon>
        </Placemark>
-     -->
 </Document>
 </kml>
