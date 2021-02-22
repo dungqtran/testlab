@@ -3,7 +3,7 @@
 <Document>
   <Style id="dongnaiPolyStyle">
       <PolyStyle>
-        <color>4Dff00cc</color> <!--First 02 digits are opacity level, 4D is 30% -->
+        <color>4D0000cc</color> <!--First 02 digits are opacity level, 4D is 30% -->
         <colorMode>random</colorMode>
       </PolyStyle>
     </Style>
