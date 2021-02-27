@@ -3,7 +3,7 @@
 <Document>
   <Style id="hcmPolyStyle">
       <PolyStyle>
-        <color>4Dffff66</color> <!--First 02 digits are opacity level, 4D is 30% -->
+        <color>800066ff</color> <!--First 02 digits are opacity level, 4D is 30% -->
         <colorMode>random</colorMode>
       </PolyStyle>
     </Style>
