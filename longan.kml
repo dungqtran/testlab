@@ -3,7 +3,7 @@
 <Document>
   <Style id="longanPolyStyle">
     <PolyStyle>
-      <color>800000ff</color> <!--First 02 digits are opacity level, 4D is 30% -->
+      <color>80ff0000</color> <!--First 02 digits are opacity level, 4D is 30% -->
     </PolyStyle>
   </Style>
   <Placemark>
