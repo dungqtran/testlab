@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <Style id="brvtboxPolyStyle">
+    <PolyStyle>
+      <color>4Dff00cc</color> <!--First 02 digits are opacity level, 4D is 30% -->
+      <colorMode>random</colorMode>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Ba Ria Vung Tau</name>
+    <styleUrl>#brvtboxPolyStyle</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+            <coordinates>
+                107.447489, 10.804793, 0
+                107.580698, 10.574035, 0
+                107.246988, 10.383631, 0
+                107.084940, 10.329594, 0
+                107.005289, 10.629379, 0
+                107.201670, 10.771067, 0
+                107.447489, 10.804793, 0
+            </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  </Document>
+</kml>
