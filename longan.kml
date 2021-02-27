@@ -4,7 +4,6 @@
   <Style id="longanPolyStyle">
     <PolyStyle>
       <color>4D0000ff</color> <!--First 02 digits are opacity level, 4D is 30% -->
-      <colorMode>random</colorMode>
     </PolyStyle>
   </Style>
   <Placemark>
